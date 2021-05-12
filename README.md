@@ -10,7 +10,7 @@ This repo contains models and results for Next Generation Pure Component Propert
 * `4 Tools Illustration` contains an illustration on how to use the GC-ML models
 * `5 Correlations` contains the models and the results of the correlations
 ## Properties
-* LogP
+* LogP:  Go to [ML-Model!](), [Full Results!](),
 * LD50
 * LogWs
 * AiT
