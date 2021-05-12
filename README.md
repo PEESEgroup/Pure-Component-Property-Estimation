@@ -1,7 +1,7 @@
 # Pure-Component-Property-Estimation
 This repo contains models and results for Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning (Link), AIChE Journal
 
-<img src="https://github.com/PEESEgroup/Pure-Component-Property-Estimation/blob/main/MAT1.jpg" width="500" >
+<img align="center" src="https://github.com/PEESEgroup/Pure-Component-Property-Estimation/blob/main/MAT1.jpg" width="500" >
 
 ## Overview
 * `1 Dataset/` contains data and ML-results
