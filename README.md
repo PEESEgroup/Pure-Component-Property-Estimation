@@ -10,26 +10,26 @@ This repo contains models and results for Next Generation Pure Component Propert
 * `4 Tools Illustration` contains an illustration on how to use the GC-ML models
 * `5 Correlations` contains the models and the results of the correlations
 ## Properties
-LogP
-LD50
-LogWs
-AiT
-Tm
-Tb
-pKa
-HSolP
-Hf
-Lmv
-Tc
-Pc
-Vc
-Gf
-Hfus
-LC50(FM)
-PCO
-BCF
-Hv
-OSHA-TWA
+* LogP
+* LD50
+* LogWs
+* AiT
+* Tm
+* Tb
+* pKa
+* HSolP
+* Hf
+* Lmv
+* Tc
+* Pc
+* Vc
+* Gf
+* Hfus
+* LC50(FM)
+* PCO
+* BCF
+* Hv
+* OSHA-TWA
 ## Requirements
 * Python >= 3.0
 * Numpy
