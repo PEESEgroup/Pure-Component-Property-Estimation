@@ -56,7 +56,7 @@ year = {2021}
 * Enthalpy Of Vaporization At 298K (Hv) [kJ/mol]
 * Permissible Exposure Limit (OSHA-TWA) [mol/m3]
 
-## Requirements
+## IPYNB Requirements
 * Python >= 3.0
 * Numpy
 * Pickle 
