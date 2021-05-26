@@ -1,6 +1,8 @@
 # Pure-Component-Property-Estimation
 This repo contains models and results for Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning [Link](), AIChE Journal
 
+The figure shows the overall performance of all models with the fraction of the dataset predicted under different error threshold rates (1%, 5%, 10%) as a measure of the performance.
+
 <p align="center">
 <img src="https://github.com/PEESEgroup/Pure-Component-Property-Estimation/blob/main/MAT1.jpg" width="900" >
 </p>
