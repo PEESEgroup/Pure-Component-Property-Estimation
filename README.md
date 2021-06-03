@@ -9,18 +9,16 @@ The figure shows the overall performance of all models with the fraction of the 
 
 ## Citation
 ```
-@article{doi,
-author = {Authors},
+@incollection{Alshehri2021227,
 title = {Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning},
-journal = {AIChE Journal},
-volume = {},
-number = {},
-pages = {},
-keywords = {},
-doi = {},
-url = {},
-eprint = {},
-abstract = {},
+editor = {M.  Turkay and R. Gani},
+author = {Abdulelah S. Alshehri, Anjan K. Tula, Lei Zhang, Rafiqul Gani, Fengqi You},
+Publisher= {Elsevier},
+booktitle= {31 European Symposium on Computer Aided Process Engineering},
+volume = {50},
+pages = {227-233},
+doi = {http://dx.doi.org/10.1016/B978-0-323-88506-5.50037-1},
+abstract = {Physicochemical property estimation methods serve as the basis for the design of molecules that enhance the functionality and efficiency of products and processes. The need to provide reliable pure component properties through quantum chemistry computations and/or experimental measurements is a major bottleneck to the goal of faster and cheaper to market the desired products. Hence, the development of approximate but accurate models is vital to progress in the field of Computer-Aided Molecular Design (CAMD), among others. With group contribution (GC) as a dominant molecular representation, semi-empirical methods have been the most popular class in generating approximate property models for CAMD owing to their low computational cost and direct incorporation into optimization models. Recent advances in machine learning have stimulated widespread interest and progress towards closing the gap between semi-empirical and quantum chemistry methods. Herein, we use machine learning and data analysis methods to address the shortcomings of the current GC-based models by synthesizing the next-generation models and tools for the fast and accurate estimation of 20 physicochemical properties central to CAMD.},
 year = {2021}
 }
 ```
