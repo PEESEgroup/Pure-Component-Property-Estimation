@@ -1,5 +1,5 @@
 # Pure-Component-Property-Estimation
-## NOtice: This work is licensed under a MIT License. The copyright notice must be included in all copies or portions of the Software or data.
+## Notice: This work is licensed under a MIT License. The copyright notice must be included in all copies or portions of the Software or data.
 ## Citation
 ```
 @incollection{Alshehri2021227,
