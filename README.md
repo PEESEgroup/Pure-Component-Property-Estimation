@@ -1,4 +1,5 @@
-# This work is licensed under a MIT License. The copyright notice must be included in all copies or portions of the Software or data.
+# Pure-Component-Property-Estimation
+## NOtice: This work is licensed under a MIT License. The copyright notice must be included in all copies or portions of the Software or data.
 ## Citation
 ```
 @incollection{Alshehri2021227,
@@ -14,7 +15,7 @@ abstract = {Physicochemical property estimation methods serve as the basis for t
 year = {2021}
 }
 ```
-# Pure-Component-Property-Estimation
+# About
 This repo contains models and results for Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning [Link](), AIChE Journal
 
 The figure shows the overall performance of all models with the fraction of the dataset predicted under different error threshold rates (1%, 5%, 10%) as a measure of the performance.
