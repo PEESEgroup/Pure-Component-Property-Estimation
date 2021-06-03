@@ -1,12 +1,4 @@
-# Pure-Component-Property-Estimation
-This repo contains models and results for Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning [Link](), AIChE Journal
-
-The figure shows the overall performance of all models with the fraction of the dataset predicted under different error threshold rates (1%, 5%, 10%) as a measure of the performance.
-
-<p align="center">
-<img src="https://github.com/PEESEgroup/Pure-Component-Property-Estimation/blob/main/MAT1.jpg" width="900" >
-</p>
-
+# This work is licensed under a MIT License. The copyright notice must be included in all copies or portions of the Software or data.
 ## Citation
 ```
 @incollection{Alshehri2021227,
@@ -22,6 +14,15 @@ abstract = {Physicochemical property estimation methods serve as the basis for t
 year = {2021}
 }
 ```
+# Pure-Component-Property-Estimation
+This repo contains models and results for Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning [Link](), AIChE Journal
+
+The figure shows the overall performance of all models with the fraction of the dataset predicted under different error threshold rates (1%, 5%, 10%) as a measure of the performance.
+
+<p align="center">
+<img src="https://github.com/PEESEgroup/Pure-Component-Property-Estimation/blob/main/MAT1.jpg" width="900" >
+</p>
+
 
 ## Overview
 * `1 Dataset/` contains data and ML-results
