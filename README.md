@@ -2,18 +2,20 @@
 ## Notice: This work is licensed under a MIT License. The copyright notice must be included in all copies or portions of the Software or data.
 ## Citation
 ```
-@incollection{Alshehri2021227,
-title = {Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning},
-editor = {M.  Turkay and R. Gani},
-author = {Abdulelah S. Alshehri, Anjan K. Tula, Lei Zhang, Rafiqul Gani, Fengqi You},
-Publisher= {Elsevier},
-booktitle= {31 European Symposium on Computer Aided Process Engineering},
-volume = {50},
-pages = {227-233},
-doi = {http://dx.doi.org/10.1016/B978-0-323-88506-5.50037-1},
-abstract = {Physicochemical property estimation methods serve as the basis for the design of molecules that enhance the functionality and efficiency of products and processes. The need to provide reliable pure component properties through quantum chemistry computations and/or experimental measurements is a major bottleneck to the goal of faster and cheaper to market the desired products. Hence, the development of approximate but accurate models is vital to progress in the field of Computer-Aided Molecular Design (CAMD), among others. With group contribution (GC) as a dominant molecular representation, semi-empirical methods have been the most popular class in generating approximate property models for CAMD owing to their low computational cost and direct incorporation into optimization models. Recent advances in machine learning have stimulated widespread interest and progress towards closing the gap between semi-empirical and quantum chemistry methods. Herein, we use machine learning and data analysis methods to address the shortcomings of the current GC-based models by synthesizing the next-generation models and tools for the fast and accurate estimation of 20 physicochemical properties central to CAMD.},
-year = {2021}
+@article{https://doi.org/10.1002/aic.17469,
+author = {Alshehri, Abdulelah S. and Tula, Anjan K. and You, Fengqi and Gani, Rafiqul},
+title = {Next generation pure component property estimation models: With and without machine learning techniques},
+journal = {AIChE Journal},
+volume = {n/a},
+number = {n/a},
+pages = {e17469},
+keywords = {data analysis, group-contribution, machine learning, pure component property prediction},
+doi = {https://doi.org/10.1002/aic.17469},
+url = {https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17469},
+eprint = {https://aiche.onlinelibrary.wiley.com/doi/pdf/10.1002/aic.17469},
+abstract = {Abstract Physiochemical properties of pure components serve as the basis for the design and simulation of chemical products and processes. Models based on the molecular structural information of chemicals for the following 25 pure component properties are presented in this work: (critical-) temperature, pressure, volume, acentric factor; (normal-) boiling point, melting point, auto-ignition temperature; flash point; (standard-) enthalpy of formation, Gibbs energy of formation, enthalpy of fusion, enthalpy of vaporization, liquid molar volume; (environmental-) (lethal dose-) LC50 and LD50, photo-chemical oxidation potential, bioconcentration factor, permissible exposure limit; (physicochemical-) acid dissociation constant, water-solubility, octanol–water partition coefficient, Hildebrandt solubility parameter, Hansen solubility parameters. Utilizing functional groups for molecular representation, two parallel property estimation models where the group contributions for each property are regressed through traditional regression techniques and machine learning techniques are presented. Both techniques use an a priori data analysis before regression of model parameters. A dataset with more than 24,000 chemicals for the 25 pure component properties has been utilized for the development of the two sets of property models. The efficacy of the developed models and their use are highlighted together with a discussion on the overall performance, application range, and predictive capabilities with implications to product and/or process engineering problem solutions.}
 }
+
 ```
 # About
 This repo contains models and results for Next Generation Pure Component Property Estimation Methods: With and Without Machine Learning [Link](), AIChE Journal
