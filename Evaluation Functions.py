@@ -51,5 +51,5 @@ for i in range(0,len(models)):
     #Calculate MARE for ML models
     MARE.append(calc_MARE(df['Experimental'], ymodel))
 
-evals = pd.DataFrame(list(zip(name, N,v,r2simple,RMSEsimple, r2ML_rep,r2ML_model , MARE, RMSEML_rep, RMSEML_model, MCL )),columns =['Name', 'M', 'v', 'R2-Simple', 'RMSE-Simple', 'R2-ML-results','R2-ML-model' , 'MARE', 'RMSE-ML-results', 'RMSE-ML-model','MCL'])
+evals = pd.DataFrame(list(zip(name, N,v,r2simple,RMSEsimple, r2ML_model , MARE, RMSEML_model, MCL )),columns =['Name', 'M', 'v', 'R2-Simple', 'RMSE-Simple','R2-ML-model' , 'MARE', 'RMSE-ML-model','MCL'])
 evals.to_csv('Evalutions.csv',index=False)
