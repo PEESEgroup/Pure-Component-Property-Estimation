@@ -36,7 +36,7 @@ The figure shows the overall performance of all models with the fraction of the 
 ## Properties
 * Octanol-Water Partition Coefficient (LogP)
 * Toxicity (Oral Rat) (LD50) [mol/kg]
-* Aqueous Solubility (LogWs) [mol/L]
+* Aqueous Solubility (LogWs) [mg/L]
 * Auto Ignition Temperature (AiT) [K]
 * Normal Melting Point (Tm) [K]
 * Normal Boiling Point (Tb) [K]
